@@ -14,17 +14,17 @@
   <!-- nav -->
 <nav class="navbar navbar-expand-lg bg-body-tertiary navbar-light ">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Logo</a>
+    <a class="navbar-brand" href="home">Logo</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="home">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about">About us</a>
+          <a class="nav-link" href="">About us</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Destinations</a>
@@ -39,14 +39,10 @@
 <!-- header -->
 <header class="bg-info" style="--bs-bg-opacity: .1;">
   <div class="container">
-    <div class="row" style="padding: 200px 0px;">
+    <div class="row" style="padding: 100px 0px;">
       <div class="col" >
-        <h1>TRAVEL AGENCY</h1>
+        <h1>ABOUT US</h1>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo tenetur consequuntur aliquam tempora porro! Reiciendis, perspiciatis ratione.</p>
-        <button type="button" class="btn btn-primary mt-4">Discover more</button>
-      </div>
-      <div class="col ">
-        <!-- <img src="../img/4027 [Convertito].png"> -->
       </div>
     </div>
     
