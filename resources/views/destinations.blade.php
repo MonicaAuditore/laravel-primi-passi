@@ -12,7 +12,7 @@
 </head>
 <body>
   <!-- nav -->
-  <nav class="navbar navbar-expand-lg bg-body-tertiary navbar-light ">
+<nav class="navbar navbar-expand-lg bg-body-tertiary navbar-light ">
   <div class="container-fluid">
     <a class="navbar-brand" href="home">Logo</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,7 +41,7 @@
   <div class="container">
     <div class="row" style="padding: 100px 0px;">
       <div class="col" >
-        <h1>ABOUT US</h1>
+        <h1>DESTINATIONS</h1>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo tenetur consequuntur aliquam tempora porro! Reiciendis, perspiciatis ratione.</p>
       </div>
     </div>
